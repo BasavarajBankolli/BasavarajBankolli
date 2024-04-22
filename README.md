@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My leetcode:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/basavarajbankolli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="basavarajbankolli" height="30" width="40" /></a>
 </p>
