@@ -9,8 +9,8 @@
   
 
 ## Leetcode Profile and Stats
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/basavarajbankolli/)
- <p>&nbsp;<img align="center" src="https://leetcard.jacoblin.cool/pb_46?theme=dark&font=Dongle&show_icons=true&locale=en" alt="basavarajbankolli" /></p>
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/pb_46/)
+ <p>&nbsp;<img  target="blank" align="center" src="https://leetcard.jacoblin.cool/pb_46?theme=dark&font=Dongle&show_icons=true&locale=en" alt="basavarajbankolli" /></p>
  
 </p> </n> 
 
