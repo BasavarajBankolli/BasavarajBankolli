@@ -20,6 +20,3 @@
 
 ## Github Status
 <p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=BasavarajBankolli&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="basavarajbankolli" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BasavarajBankolli&theme=dark&hide_border=false" alt="basavarajbankolli" /></p>
-
